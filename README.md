@@ -1,10 +1,10 @@
 # phish-all
+PERHATIAN !
+(tolong sebelum memulai nyalakan hostpot anda dulu agar script bekerja)
+(please before starting, turn on your hostpot first so that the script works)
 
-Cara menggunakan dan persyaratan
-1.harus connect ngorok
-2.dilarang Recode
-3.kalau bingung cara connect ngroh silahkan liat YouTube
-4.BY.MR.CROOT
+
+
 
 $ pkg update && pkg upgrade
 

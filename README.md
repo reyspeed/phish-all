@@ -1,5 +1,6 @@
 # phish-all
 PERHATIAN !
+
 (tolong sebelum memulai nyalakan hostpot anda dulu agar script bekerja)
 
 (please before starting, turn on your hostpot first so that the script works)

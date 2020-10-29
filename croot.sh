@@ -57,7 +57,7 @@ echo '6.PUBG MOBILE' | lolcat
 echo '<×=<><><><><><><><><><><><><>=×>' | lolcat
 echo '7.YOUTUBE' | lolcat
 echo '<×=<><><><><><><><><><><><><>=×>' | lolcat
-echo '8.TIKTOK' | lolcat
+echo '8.TWITER' | lolcat
 echo '<×=<><><><><><><><><><><><><>=×>' | lolcat
 echo '9.PAYPAL' | lolcat
 echo '<×=<><><><><><><><><><><><><>=×>' | lolcat 
@@ -91,7 +91,7 @@ elif [[ $option == 7 || $option == 07 ]]; then
 server="YTB"
 start1
 elif [[ $option == 8 || $option == 07 ]]; then
-server="TIK"
+server="TWT"
 start1
 elif [[ $option == 9 || $option == 07 ]]; then
 server="PAY"
